@@ -1,0 +1,11 @@
+rancher:
+    network:
+        interfaces:
+            eth0:
+                address: 192.168.3.212/24
+                gateway: 192.168.3.1
+                mtu: 1500
+                dhcp: false
+
+ssh_authorized_keys:
+    - ssh-rsa MIIEogIBAAKCAQEAyzz06o6GLogR2b8BIJaCJYeHlQ20Pkl+pe+ywvlUkzE0Y7js VebGVP31qpEDxKOfFiHMzjyiZ3KMWIdgk+ljUNAsgViqP5PB9GpsJht97O6VDnaB tnARZduTntT9MWL+9l98lcahTVj0CvbspPGh0c+e2ajVvOEmOXe7J8aVRi87ftqK f74t9e2+uOubUsjuK5EkCMvyMt9f5g1OjPlKvt4uxoFMnd7BMp7JHbL5WGxz1g6O /t+YzTBGEQSuDj2yJc9Aa8DUo/pgiz6nG0zRhqYFh3/jFwAjgKGZIBEcwk5nLXaQ 1Pn1gUrKIbwVdd322Zki3N8VnkpgdiTV44K7KwIDAQABAoIBAFOlgfOrtyQdkqM4 zqD38Ra7Ih1Bp6ZfH0XyUnOWpK1z+ej1KifstEI0x9BsoM1kvkwgmydio0DKT2L8 TM5zpxGSrE6MDH3gNVqAFoTUmc5TH3v1YEuS8kYmyin75T1XTjJeeGs4dhjcfIyq thjo7j3pIqrYpyd2zwGl+pxTSgq5F/x6Q6swDMKz0flRGKhoeec2JZqXSSvF+M3u 81TOyPRViMmiGiFjMtw+nunxtjDXU/VFmhzbk578faYKoo7vJ0hu/IySGW8VavGh hORelV21X+8RyUt7UjxfW2cxwPnROjvRY/it+jQbYYQU+oBd21+daalSX8Lhwyro flZoFNECgYEA613D9sQ+yvPqz2+xlczsI9gQVmSZcghMubMGfcZvjqaeIRSHy1jo xnrNm/u/SS4GhBArgSiGaG2PrSWz59N+qXVJ14LDplYZxmbmJX4rlKLu9Rut/aMb ifQKTsftbd45uvR6apXUrz/GnkzRPGgm3P/mk7WiWWpllyDD7StKnEkCgYEA3Q4m vSMh2B6LmSnlcqBXS/6sHzC4vkPiSFDGDl1gf6yPnXta6b3JjL3vKCKQGRyOMJJY e3G1hadxyCaVfiZOLykNzgMcifw6WTa5sFueXo0cyEQ+xfWIp2iuViyfLZcKZL7j HT0zUAzAHDvQVYPRR5Bc30AG/xomMqEl8HcWk9MCgYA0uJQkumC2ZVy7inFk9LoQ bV17fJ1Chclp70gM9F4Yvgm9rzObwRajHu7fecynP8AF5PlZvRIeYixExKU/0IgW vUcFFy1sHO05G+OBknmAmd6c2M5oehi5FgkZDH+KlLSpxAmHxngVqVt8KgjUVyAd cNTdUVpEXSjUaWp5vbDAwQKBgCeU/BzL6KiBN6/yT5KJ4XfLH1jqaXowP5mBVSWH VNsntAOX7fyCrk9URzmhjrngYhmSauOXxdAr3nTfa89N3pwVNtKXvgl7L5t/8BoD HcWCcQ/vIGpj/9cyKF1n2gzYydSmVZaLud9wmQm1MCXP165/zBFxro8JSKOyNU/s kw9fAoGAAilhEG/rEcBk8VyKqSLVgbJuqVkCk+DD9mSFiuj3ZNpCnH50M960cbiu u2EsW1ugJvtEkG0w6QjoexW6JrIcamTdAmVz93sO5KSiuf2Bnhh5o1mbgTkl8Hx2 i4couAK7nmHaP7BPfhWeFyxCojwGAKcRq6NBYIXRX13AMICXzkk= rsa 2048-041018
